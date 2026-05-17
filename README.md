@@ -62,7 +62,7 @@ The landing page is optimized for:
 - Desktop
 - Tablet
 - Mobile devices
-- see preview here: https://tyoo18.github.io/tyosbakery-landing-page/
+- see page preview here: https://tyoo18.github.io/tyosbakery-landing-page/
 
 ---
 
